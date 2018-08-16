@@ -1,0 +1,33 @@
+body {
+  background: #54ADEF;
+  color: white;
+  text-align: center;
+}
+header {
+  margin-top: 15vh;
+}
+.quote {
+  margin-top: 17vh;
+}
+.author {
+  margin-top: 8vh;
+}
+.trigger {
+  margin-top: 6vh;
+  width: 450px;
+  background: none;
+  color: white;
+  border: 2px solid white;
+  &:hover {
+    background: darkblue;
+  }
+}
+.tweet {
+  margin-top: 4vh;
+  width: 450px;
+  color: white;
+  border: 2px solid white;
+  &:hover {
+    background: white;
+  }
+}
