@@ -8,7 +8,7 @@ header { margin-top: 15vh; }
 
 .trigger { margin-top: 6vh; width: 450px; background: none; color: white; border: 2px solid white; }
 
-.trigger:hover { background: darkblue; }
+.trigger:hover { background: #2a70e0; border: 2px solid white; }
 
 .tweet { margin-top: 4vh; width: 450px; color: white; border: 2px solid white; }
 
